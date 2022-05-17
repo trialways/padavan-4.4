@@ -37,9 +37,9 @@
 
 #define DEF_WLAN_2G_CC		"CN"
 #define DEF_WLAN_5G_CC		"US"
-#define DEF_WLAN_2G_SSID          "WRU2.4G"
-#define DEF_WLAN_5G_SSID          "WRU5G"
-#define DEF_WLAN_2G_GSSID         "WRU_GUEST2.4G"
+#define DEF_WLAN_2G_SSID        "WRU2.4G"
+#define DEF_WLAN_5G_SSID        "WRU5G"
+#define DEF_WLAN_2G_GSSID       "WRU_GUEST2.4G"
 #define DEF_WLAN_5G_GSSID	"WRU_GUEST5G"
 #define DEF_WLAN_2G_PSK		"cuz3bd86ie9"
 #define DEF_WLAN_5G_PSK		"cuz3bd86ie9"
